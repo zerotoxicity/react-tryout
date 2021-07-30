@@ -1,5 +1,3 @@
-import iglogo from './images/Instagram.png';
-import ghlogo from './images/Github.png';
 
 const Home = () => {
     return ( 
